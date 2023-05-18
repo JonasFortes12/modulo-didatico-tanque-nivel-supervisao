@@ -1,4 +1,4 @@
-# Módulo Didático de um Tanque de Nível e Sistema Supervisório
+# Módulo Didático para Controle e Supervisão de um Tanque de Nível
 
 <center>
 <a href="" alt="Python" target="_blank">
@@ -36,7 +36,7 @@ Além do módulo, há um sistema supervisório responsável por coletar e monito
 
 <center>
 <figure>
-  <img style="width:300px;" src=".\Software Embarcado\imgs\system.gif" alt="Minha Figura">
+  <img style="width:300px;" src=".\Firmware do Módulo\imgs\system.gif" alt="Minha Figura">
   <figcaption>
   Tanque de Nível + Sistema Supervisório</figcaption>
 </figure>
